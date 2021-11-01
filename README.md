@@ -1,11 +1,11 @@
 # Kickstarter-Analysis
-Performing analysis on the excel dataset [Kickstarter](https://github.com/sucharita1/kickstarter-analysis/blob/16de63190d2fddcc3cfd50b49f1bcf55ecce118c/Kickstarter-Analysis.xlsx) collected from a crowdfunding website to uncover trends for a successful fundraiser.
+Performing analysis on the excel dataset [Kickstarter](https://github.com/sucharita1/kickstarter-analysis/blob/21b450f7ffdacdc10890eace448b5d8b4f3ff46c/Kickstarter-Analysis.xlsx) collected from a crowdfunding website to uncover trends for a successful fundraiser.
 
 ## Overview of Project
 Louise is a playwright who wants to produce a play 'Fever'. She has estimated that her play will cost her 10000-12000$ and started a crowdfunding campaign. She has come close to her fundraising goal in a short amount of time. She wants to know how different crowdfunding campaigns fared so that she can mirror the successful ones and learn her lessons from the failed ones.
 
 ### Purpose
-Analyzing [Kickstarter](https://github.com/sucharita1/kickstarter-analysis/blob/16de63190d2fddcc3cfd50b49f1bcf55ecce118c/Kickstarter-Analysis.xlsx) to visualize the outcomes of previous crowdfunding campaigns and draw useful insights to help fund the play 'Fever'
+Analyzing [Kickstarter](https://github.com/sucharita1/kickstarter-analysis/blob/21b450f7ffdacdc10890eace448b5d8b4f3ff46c/Kickstarter-Analysis.xlsx) to visualize the outcomes of previous crowdfunding campaigns and draw useful insights to help fund the play 'Fever'
 - To find the fate of crowdfunding campaigns i.e. 'successful', 'failed' or 'canceled' based on launch date of the campaign.
 - To find the percentage of successful, failed, and canceled plays based on the funding goal amount.
     
